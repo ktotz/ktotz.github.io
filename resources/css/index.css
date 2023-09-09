@@ -27,3 +27,11 @@ header {
     height: 100%;
     margin: 0 auto;
 }
+
+.navigation a {
+    color: seashell;
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+}
