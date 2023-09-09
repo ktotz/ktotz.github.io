@@ -35,3 +35,9 @@ header {
     float: left;
     padding: 0px 20px;
 }
+
+.navigation li {
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+}
